@@ -1,6 +1,7 @@
 # Assign the variables for exercise 1 here:
 
-
+engine_indicator_light = "green"
+engine_indicator_light = "green blinking"
 
 # BEFORE running the code, predict what will be printed to the console by the following statements:
 
