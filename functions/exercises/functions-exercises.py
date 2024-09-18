@@ -24,12 +24,6 @@ def make_rectangle(width, height):
         print('*' * width)
 make_rectangle(10, 5)        
 
-# Example usage:
-make_rectangle(10, 5)   
-
-
-
-
 # Part 2 A -- Make a Stairs
 def make_stairs(steps):
     for i in range(1, steps + 1):
@@ -79,7 +73,6 @@ def make_diamond(n):
         stars = '*' * (2 * i - 1)
         print(spaces + stars)
 
-# Example usage:
 make_diamond(5)
 
 

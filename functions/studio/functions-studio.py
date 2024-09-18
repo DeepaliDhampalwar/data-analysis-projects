@@ -25,6 +25,7 @@ listTest1Count=len(list_test1)
 for num in range (listTest1Count):
     result=reverse_characters(list_test1[num])
     print(list(result))
+# string_list = string_input.split()
 
 
 # c) 'reverse' your new list.
